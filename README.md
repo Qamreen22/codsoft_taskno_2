@@ -12,7 +12,7 @@ The objective of this task was to create an intuitive and user-friendly mobile a
 
 ### Design Snapshot
 
-![Sign-Up Flow](./Email-Template.png)
+![Sign-Up Flow](./Email%20Template.png)
 
 The image above provides a snapshot of the mobile app sign-up flow. It highlights key elements of the design, such as the user interface components, color schemes, and overall aesthetic.
 
