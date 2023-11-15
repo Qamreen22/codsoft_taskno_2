@@ -21,7 +21,7 @@ The image above provides a snapshot of the mobile app sign-up flow. It highlight
 To explore the completed sign-up flow design:
 
 1. **View the Image:** Check the image in the repository to get a quick overview of the design.
-2. **Figma link:** Check out the final prototype here: [link]([https://www.figma.com/proto/hsf7h2F8RpR3RqxOKCyzPs/Mobile-App?page-id=0%3A1&type=design&node-id=40-179&viewport=279%2C403%2C0.4&t=F8qWiLBS4khuAJFE-1&scaling=scale-down&starting-point-node-id=2%3A9](https://lnkd.in/gHD9DCef)
+2. **Figma link:** Check out the final prototype here: [link](https://lnkd.in/gHD9DCef)
 3. **LinkedIn post:** Check out the video here: [link](https://www.linkedin.com/posts/qamreen-2481b4239_userexperience-emailtemplate-codsoft-activity-7129852285072904192-s89o?utm_source=share&utm_medium=member_desktop)
 
 ## Feedback and Improvements
